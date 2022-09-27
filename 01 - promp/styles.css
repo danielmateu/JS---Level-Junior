@@ -1,0 +1,11 @@
+body{
+    background-color: beige;
+    font-family: 'Poppins',sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.resultado{
+    text-align: center;
+    padding: 25px;
+}

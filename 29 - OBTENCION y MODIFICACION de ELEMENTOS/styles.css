@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(112, 112, 112);
+    font-family: 'Poppins',sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    color: rgb(192, 90, 90);
+}
+
+.grande{
+    font-size: 45px;
+}
+
+.mas-grande{
+    font-size:50px;
+}
